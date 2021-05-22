@@ -1,4 +1,4 @@
-# jrestful-booker
+# restful-booker
 
 
 ## Automation test regression suite for restful-booker rest api
